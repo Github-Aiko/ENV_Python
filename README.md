@@ -9,25 +9,25 @@ Python Version: 3.11.1
 # windows 
 Run powershell as admin
 ```
-$ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/windows.ps1
+$ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/windows.ps1
 Invoke-Expression $($ScriptFromGitHub.Content)
 ```
 
 # Linux
 ```
-wget https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/linux.sh && chmod +x linux.sh && ./linux.sh
+wget https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/linux.sh && chmod +x linux.sh && ./linux.sh
 ```
 
 of 
 - Requiement: curl
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/linux.sh)
+bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/linux.sh)
 ```
 
 # MacOS
 ```
-curl -O https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/macos.sh && chmod +x macos.sh && ./macos.sh && rm macos.sh
+curl -O https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/macos.sh && chmod +x macos.sh && ./macos.sh && rm macos.sh
 ```
 
 - Attention for Mac

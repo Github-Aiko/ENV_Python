@@ -11,4 +11,4 @@ else
 fi
 
 # install required packages
-pip3 install -r https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/requirements.txt
+pip3 install -r https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/requirements.txt
