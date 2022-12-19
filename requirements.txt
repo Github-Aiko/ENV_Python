@@ -1,6 +1,7 @@
 requests
 wheel
 pyinstaller
+setuptools
 # Machine Learning
 tersorflow
 scikit-learn
