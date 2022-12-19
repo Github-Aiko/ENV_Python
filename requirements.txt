@@ -2,15 +2,7 @@ requests==2.24.0
 wheel==0.34.2
 pyinstaller==3.6
 # Machine Learning
-tensorflow==2.3.0
-tensorflow-gpu==2.3.0
-tensorflow-estimator==2.3.0
-tensorflow-gpu-estimator==2.3.0
-tensorflow-addons==0.11.2
-tensorflow-datasets==3.2.1
-tensorflow-hub==0.9.0
-tensorflow-metadata==0.24.0
-tensorflow-probability==0.11.0
+scikit-learn==0.23.2
 XGBoost==1.2.0
 Matplotlib==3.3.1
 # Deep Learning
@@ -35,8 +27,6 @@ Ffnet==0.8.3
 PyTorch==1.7.0
 # Reinforcement Learning
 gym==0.17.3
-# Machine Learning
-scikit-learn==0.23.2
 # Text Processing
 textblob==0.15.3
 # Speech Processing
