@@ -17,4 +17,4 @@ python3 get-pip.py
 Remove-Item get-pip.py
 
 
-pip install -r https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/requirements.txt
+pip install -r https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/requirements.txt
