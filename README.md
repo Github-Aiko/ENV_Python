@@ -25,11 +25,13 @@ of
 bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/linux.sh)
 ```
 
-# Mac
+# MacOS
 ```
-Using Brew install Python
+curl -O https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/macos.sh && chmod +x macos.sh && ./macos.sh
 ```
 
-```bash
-Comming Soon 
+- Attention for Mac
+Need to install homebrew before using the script
+``` bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
