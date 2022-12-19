@@ -19,6 +19,7 @@ wget https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/linux.sh
 ```
 
 of 
+- Requiement: curl
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/linux.sh)
