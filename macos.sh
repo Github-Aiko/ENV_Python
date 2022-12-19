@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # install python 3.11.1 and pip
-brew install
+brew update
 brew install python3
 
 # install required packages
