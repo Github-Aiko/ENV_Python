@@ -7,21 +7,21 @@ Python Version: 3.11.1
 
 
 # windows 
+Run powershell as admin
 ```
-Using PS1 install python 
-```
-
-```powershell
-Comming Soon 
+$ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/windows.ps1
+Invoke-Expression $($ScriptFromGitHub.Content)
 ```
 
 # Linux
 ```
-Using APT  install Python
+wget https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/linux.sh && chmod +x linux.sh && ./linux.sh
 ```
 
+of 
+
 ```bash
-Comming Soon 
+bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/linux.sh)
 ```
 
 # Mac
