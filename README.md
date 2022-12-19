@@ -27,7 +27,7 @@ bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/maste
 
 # MacOS
 ```
-curl -O https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/cmacos.sh && chmod +x macos.sh && ./macos.sh && rm macos.sh
+curl -O https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/env/macos.sh && chmod +x macos.sh && ./macos.sh && rm macos.sh
 ```
 
 - Attention for Mac
