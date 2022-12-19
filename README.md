@@ -38,10 +38,13 @@ Need to install homebrew before using the script
 
 
 # DEV commit for new pip package
-Step 1: Fork this repo
-Step 2: Clone your forked repo
-Step 3: Add your package to requirements.txt (Link : https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/requirements.txt)
-Step 4: Commit and push your changes
-Step 5: Create a pull request
-Step 6: Wait for the pull request to be merged
-Step 7: Done
+- Step 1: Fork this repo
+- Step 2: Clone your forked repo
+- Step 3: Add your package to requirements.txt (Link : https://raw.githubusercontent.com/Github-Aiko/ENV_Python_AI/master/requirements.txt)
+- Step 4: Commit and push your changes
+- Step 5: Create a pull request
+- Step 6: Wait for the pull request to be merged
+- Step 7: Done
+
+# issue 
+- if you have any issue, please create issue in this repo
